@@ -1,0 +1,12 @@
+{
+    "name": "Alin",
+    "age": 25,
+    "occupation": "Software Developer",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "Machine Learning"
+    ],
+    "location": "Bangladesh",
+    "is_student": false
+}
